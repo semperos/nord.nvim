@@ -1,9 +1,9 @@
 local nord = {
   --16 colors
   -- nord0_gui = "#2E3440"        , -- not enough contrast
-  -- nord0_gui = "#21252D"        , -- nice and dark
   -- nord0_gui = "#242933"        , -- still not quite enough contrast
-  nord0_gui = "#222730"        ,
+  -- nord0_gui = "#222730"        , -- almost enough contrast, but nope
+  nord0_gui = "#21252D"        , -- nice and dark
   nord1_gui = "#3B4252"        ,
   nord2_gui = "#434C5E"        ,
   nord3_gui = "#4C566A"        ,
